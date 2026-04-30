@@ -1,0 +1,18 @@
+{
+  "documentRules": [
+    {
+      "id": 1,
+      "name": "目录层级规范",
+      "description": "文档层级不超过 4 级"
+    },
+    {
+      "id": 2,
+      "name": "图表编号规范",
+      "description": "图表按章节编号，格式为 图-章节-序号"
+    }
+    // ... 共 20 条规范
+  ],
+  "terminology": {
+    "standardTerms": []
+  }
+}

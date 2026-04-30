@@ -1,0 +1,23 @@
+{
+  "name": "doc-collab-system",
+  "version": "1.0.0",
+  "description": "在线协作文档智能处理与校验系统",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "agent",
+    "document-processing",
+    "collaboration",
+    "claude"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.0",
+    "anthropic": "^0.27.0"
+  }
+}
